@@ -1,0 +1,5 @@
+{
+    "ignore": ["dist", "dist-newstyle"],
+    "exec": "cabal v2-run haskek-shitchat 0.0.0.0 3000",
+    "ext": "hs"
+}
